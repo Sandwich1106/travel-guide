@@ -12,6 +12,10 @@
 | Local date and window | Activity and location | From previous stop | Deadline or booking | Cost and status | Optional stop or fallback |
 | --- | --- | --- | --- | --- | --- |
 
+## Budget and trip-style decision
+
+Use [budget and value](budget-and-value.md#english) to show the within-budget pick, lowest verifiable viable option, core experience kept, and budget headroom or shortfall. Compare another tier where useful and show what extra spending changes.
+
 ## Local discoveries and decisions
 
 In a full guide, surface the local discoveries most likely to change the route. Give opportunity or constraint, trip impact, action and deadline, and evidence status with a direct source. Include seasonal experiences that suit the traveler as well as dependencies that could cause missed bookings, extra costs or rerouting. Use the [destination discovery checklist](destination-discovery.md#english).

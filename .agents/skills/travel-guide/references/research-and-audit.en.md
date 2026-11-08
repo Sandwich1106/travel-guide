@@ -24,6 +24,8 @@ For high-impact facts, record a direct link, verification date, applicable date,
 
 ## Check before delivery
 
+Reconcile the lowest viable and recommended plans using [budget and value](budget-and-value.md#english). Check whether each preserves the promised experience, each leg can be booked and traveled, and extra nights and last-mile costs are included.
+
 Use [destination discovery](destination-discovery.md#english) to check each gateway, base and activity. Surface local opportunities, separate permits, scarce connections and seasonal constraints in the brief with an actionable decision.
 
 Use the [traveler interview](traveler-interview.md#english) to check primary and fallback plans, bookings and split logistics against each person’s allergies, dietary preferences and activity restrictions.

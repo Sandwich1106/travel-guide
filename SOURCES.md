@@ -29,3 +29,7 @@
 ## 全球目的地排查
 
 后续调研增加了地区差异和行程触发条件。各地案例帮助发现该查什么，具体规则仍按国家、城市、景区、出发日期和旅客条件确认。[分地区的一手入口与研究方法](.agents/skills/travel-guide/references/destination-discovery.md#简体中文)
+
+## 预算与玩法
+
+补充了园区自驾、骑行、公营营地、合法客运和跨境巴士等官方入口。用这些案例练习拆分费用与体验，再按实际日期核验可售性。[预算工作流及来源](.agents/skills/travel-guide/references/budget-and-value.md#简体中文)

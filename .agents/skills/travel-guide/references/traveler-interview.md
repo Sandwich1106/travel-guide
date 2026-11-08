@@ -7,7 +7,7 @@
 ### 按决定分轮追问
 
 - 先从已给的内容提取事实和限制，复用已确认且仍适用的答案。只有答案会改变推荐时才问。每轮合并当前能回答的少量问题，通常 1–3 组，附实际选项或适用的默认建议。等待本轮回答再问依赖它的问题。签证规则、营业时间、设施和项目限制由自己查。
-- **第一轮先问会改主线的缺项。** 目的地或候选、出发地、日期与弹性、人数、预算口径、必做和已订事项。对完整多人行程，问各位是否有影响饮食、活动、行动或住宿的限制。示例：「同行者有没有必须避开的食材或活动，或需要照顾的步行、楼梯和休息需求？用 A/B/C 加限制即可，也可以先跳过。」
+- **第一轮先问会改主线的缺项。** 目的地或候选、出发地、日期与弹性、人数、预算币种和口径、目标与硬上限、最值得保留的体验、已订事项。对完整多人行程，问各位是否有影响饮食、活动、行动或住宿的限制。示例：「同行者有没有必须避开的食材或活动，或需要照顾的步行、楼梯和休息需求？用 A/B/C 加限制即可，也可以先跳过。」
 - **下一轮问取舍。** 根据已知条件选择真正有分歧的题。例如「大家一起玩温和项目，还是想体验刺激项目的人分组、之后会合？我建议先排共同活动，再留可选分组。」也可追问早起看日出与睡眠、交通舒适度与预算、餐厅等位与口味优先级。
 - **只细问会改变执行的边界。** 例如恐高者是否也避开缆车、玻璃栈道或观景台，怕走路是连续步行时长还是台阶，某项饮食限制是过敏、其他必须遵守的要求，还是口味偏好。用户给出术后或医生限制时，只问明确禁止的动作或强度。用户可跳过。信息未答复时记录「未提供」，继续能做的研究，用条件方案替代确定性推荐。用户要求直接给方案时，列假设和待确认条件即可。
 - 当重要取舍已足以排路线时结束访谈。给简短确认摘要，列每人的硬限制、共同目标和少量待确认项，允许随时修正。已知硬限制与预订冲突时，先说明冲突和替换方式。任何预订或外部联络沿用 Skill 的授权边界。
@@ -24,7 +24,7 @@
 ### Interview in decision rounds
 
 - Extract what the traveler has already said and reuse still-applicable answers. Ask only where the answer changes a recommendation. Bundle a few currently answerable questions, usually one to three groups, with practical options or a suggested default where appropriate. Ask dependent questions after the answer that unlocks them. Research visa rules, opening, facilities and operator restrictions yourself.
-- **First, ask about itinerary-changing gaps.** Destination or shortlist, origin, dates and flexibility, group size, budget scope, must-dos and bookings. For a full group trip, invite practical food, activity, mobility and lodging constraints for each person. Example: “Does anyone need to avoid particular ingredients or activities, or need help with walking, stairs or rest? A/B/C plus the constraint is enough. You can skip this for now.”
+- **First, ask about itinerary-changing gaps.** Destination or shortlist, origin, dates and flexibility, group size, budget currency, scope, target and cap, core experiences and bookings. For a full group trip, invite practical food, activity, mobility and lodging constraints for each person. Example: “Does anyone need to avoid particular ingredients or activities, or need help with walking, stairs or rest? A/B/C plus the constraint is enough. You can skip this for now.”
 - **Then ask about trade-offs.** Based on known answers, ask about genuine choices. For example, “Would everyone rather stick together for gentle activities, or split for thrill rides and meet later? I'd suggest a shared anchor and an optional split.” Other useful trade-offs include sunrise vs. sleep, transport comfort vs. cost, and dining quality vs. waiting.
 - **Clarify only actionable boundaries.** Ask whether a height restriction also covers cable cars or glass floors, whether walking limits involve duration or steps, and whether a food constraint is an allergy, another firm requirement, or a taste preference. If someone mentions a post-surgery or clinician restriction, ask only what activity or exertion is off limits. Allow questions to be skipped. Mark unanswered constraints as unknown, continue independent work, and offer conditional options. If asked to proceed directly, state assumptions and pending checks.
 - Close the interview once the material choices support a route. Summarize per-person hard limits, shared goals and open issues, and let the traveler correct them. Flag conflicting bookings and possible replacements early. Keep the skill's authorization boundaries for bookings and external contact.

@@ -23,3 +23,7 @@ Verify trip-specific facts and availability afresh. Use firsthand reports for ex
 ## Global destination discovery
 
 Regional sources inform the questions to investigate. Verify trip-specific rules for the relevant country, city, site, dates and traveler. [Regional primary sources and discovery protocol](.agents/skills/travel-guide/references/destination-discovery.md#english)
+
+## Budget and trip styles
+
+Primary sources for cycling, self-drive, public camps, authorized passenger rail and cross-border coaches illustrate how to unbundle trips and verify date-specific availability. [Budget workflow and sources](.agents/skills/travel-guide/references/budget-and-value.md#english)

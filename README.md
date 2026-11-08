@@ -14,6 +14,8 @@
 
 即使你第一次去、还不知道要问什么，Skill 也会先排查当地独特体验、隐藏费用、许可、季节限制和难接驳路段。覆盖非洲、欧洲、美洲、亚洲、中东、大洋洲和极地的研究起点。
 
+从预算和最想保留的体验出发，主动查公交、合乘、公营营地、当地小团等选择，也比较值得花钱的升级。出预算时先重排玩法，再给差额和取舍。
+
 ### 开始使用
 
 将本仓库克隆或下载到本地，在 Codex 中打开项目目录，再输入：
@@ -21,6 +23,7 @@
 > 用 $travel-guide 帮我做一份 7 天的境外自由行攻略。我喜欢美食和公共交通，节奏偏慢。对重点景点、餐厅和酒店，请对比不同平台的好评、差评和分歧，再给出推荐和备选。
 
 - [Skill](.agents/skills/travel-guide/SKILL.md)
+- [按预算设计旅行](.agents/skills/travel-guide/references/budget-and-value.md#简体中文)
 - [全球目的地排查](.agents/skills/travel-guide/references/destination-discovery.md#简体中文)
 - [旅行需求访谈](.agents/skills/travel-guide/references/traveler-interview.md#简体中文)
 - [出境旅行实务手册](.agents/skills/travel-guide/references/international-planning.md)
@@ -41,6 +44,8 @@ Say “Interview me in rounds first” to build the plan around each person's al
 
 For unfamiliar destinations, the skill proactively finds local experiences, hidden costs, permits, seasonal constraints, and hard-to-connect legs. Its regional research prompts span Africa, Europe, the Americas, Asia, the Middle East, Oceania, and the polar regions.
 
+Start with the budget and core experience. Compare public transit, shared transfers, public camps, and local groups alongside meaningful upgrades. If the original route exceeds the cap, redesign it and show the trade-offs.
+
 ### Getting started
 
 Clone or download this repository, open its folder in Codex, and try:
@@ -48,6 +53,7 @@ Clone or download this repository, open its folder in Codex, and try:
 > Use $travel-guide to plan a seven-day international trip focused on food, public transport, and a relaxed pace. For the key attractions, restaurants, and hotels, compare praise, complaints, and disagreements across review platforms, then recommend a pick and a fallback.
 
 - [Skill](.agents/skills/travel-guide/SKILL.md)
+- [Budget and value](.agents/skills/travel-guide/references/budget-and-value.md#english)
 - [Destination discovery](.agents/skills/travel-guide/references/destination-discovery.md#english)
 - [Traveler interview](.agents/skills/travel-guide/references/traveler-interview.md#english)
 - [International travel field guide](.agents/skills/travel-guide/references/international-planning.en.md)

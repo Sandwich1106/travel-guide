@@ -22,6 +22,8 @@
 | 高海拔、沙漠、极地、雨林或远岛 | 适应日与行程强度、实际开放和季节窗口、日照和气象、通信、饮水燃油、车辆或小飞机限制、取消等待和可用救援、保险的海拔/活动与撤离条款。医疗建议按权威资料与旅客适用条件核验 |
 | 邮轮、轮渡、活动船或探险船 | 母港与靠港具体码头、登船和返回截止、本地时间与船上时间、接驳艇或跳港、岸上签证、独立岸游掉队风险和返船方案 |
 
+先用[预算与玩法](budget-and-value.md#简体中文)查当地公共渠道和可拆买法，再比较值不值得升级。
+
 ### 地区研究起点
 
 | 地区 | 用来触发研究的例子 |
@@ -53,6 +55,8 @@
 | Multicountry rail, road trips or rental cars | Protected vs. separate tickets, mandatory reservations, works or strikes, vignettes/tolls, rental border permissions, winter tires, parking, charging, long drives and time zones |
 | Altitude, desert, polar, jungle or remote islands | Acclimatization and effort, seasonal opening and daylight, weather, signal, water/fuel, aircraft or vehicle limits, cancellations, rescue availability and insurance for the activity, altitude and evacuation. Use authoritative health sources and traveler-specific applicability |
 | Cruises, ferries or expedition vessels | Exact port and terminal, check-in and all-aboard deadlines, ship vs. local time, tenders or missed ports, shore entry, excursion delays and how to return |
+
+Use [budget and value](budget-and-value.md#english) to discover public channels and unbundled options before comparing upgrades.
 
 ### Regional research starting points
 
