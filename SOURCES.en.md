@@ -19,3 +19,7 @@ Verify trip-specific facts and availability afresh. Use firsthand reports for ex
 - Mapping gaps: use destination, airport, and coach operator sources to identify routes, stops and timetables. Confirm the applicable date. [Tourism Fiji](https://www.fiji.travel/things-to-know/getting-around/land-airport-transfers) · [Fiji Airports](https://fijiairports.com/public-buses/) · [Pacific Transport](https://www.pacifictransport.com.fj/time-table.html)
 - Scarce connections: seaplanes, Tanna flights and 4WD transfers, and Hamilton Island buggies have different booking channels and constraints. [Trans Maldivian Airways](https://www.transmaldivian.com/faq/) · [Vanuatu Tourism Office](https://www.vanuatu.travel/en/about-vanuatu/provinces/tafea/tanna) · [Hamilton Island Buggy Hire](https://www.hamiltonisland.com.au/getting-around-island/buggy-hire)
 - Research entry points for boarding documents, connectivity, fares and travel health. [IATA Travel Centre](https://www.iata.org/en/travel-centre) · [Apple's travel eSIM guide](https://support.apple.com/en-gb/118227) · [Google Flights price insights](https://support.google.com/travel/answer/6235879?hl=en) · [CDC Travelers’ Health](https://wwwnc.cdc.gov/travel/page/faq)
+
+## Global destination discovery
+
+Regional sources inform the questions to investigate. Verify trip-specific rules for the relevant country, city, site, dates and traveler. [Regional primary sources and discovery protocol](.agents/skills/travel-guide/references/destination-discovery.md#english)

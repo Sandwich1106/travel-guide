@@ -12,6 +12,10 @@
 | Local date and window | Activity and location | From previous stop | Deadline or booking | Cost and status | Optional stop or fallback |
 | --- | --- | --- | --- | --- | --- |
 
+## Local discoveries and decisions
+
+In a full guide, surface the local discoveries most likely to change the route. Give opportunity or constraint, trip impact, action and deadline, and evidence status with a direct source. Include seasonal experiences that suit the traveler as well as dependencies that could cause missed bookings, extra costs or rerouting. Use the [destination discovery checklist](destination-discovery.md#english).
+
 ## Operational tables for a full international trip
 
 Use the [international field guide](international-planning.en.md) for applicable items. Lead with entry, transit and scarce transfers that determine feasibility. Give visa and SIM decisions, price, steps, timing or validity, direct channels, and pending checks. Show the cash calculation and initial withdrawal/exchange. Give searchable lodging areas and commute reasoning before hotel picks. Show comparable hotel/flight quotes, lookup times, and booking decisions.

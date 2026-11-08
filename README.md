@@ -12,6 +12,8 @@
 
 可以先说「先像 grill-me 一样分轮问我」。Skill 会按每位同行者了解过敏、忌口、恐高、体力和活动限制，再安排全员主线与可选分组。只需提供对行程有影响的限制。
 
+即使你第一次去、还不知道要问什么，Skill 也会先排查当地独特体验、隐藏费用、许可、季节限制和难接驳路段。覆盖非洲、欧洲、美洲、亚洲、中东、大洋洲和极地的研究起点。
+
 ### 开始使用
 
 将本仓库克隆或下载到本地，在 Codex 中打开项目目录，再输入：
@@ -19,6 +21,7 @@
 > 用 $travel-guide 帮我做一份 7 天的境外自由行攻略。我喜欢美食和公共交通，节奏偏慢。对重点景点、餐厅和酒店，请对比不同平台的好评、差评和分歧，再给出推荐和备选。
 
 - [Skill](.agents/skills/travel-guide/SKILL.md)
+- [全球目的地排查](.agents/skills/travel-guide/references/destination-discovery.md#简体中文)
 - [旅行需求访谈](.agents/skills/travel-guide/references/traveler-interview.md#简体中文)
 - [出境旅行实务手册](.agents/skills/travel-guide/references/international-planning.md)
 - [多平台评价与访问回退](.agents/skills/travel-guide/references/community-evidence.md)
@@ -36,6 +39,8 @@ A full international guide also covers visa documents, fees and stay limits, SIM
 
 Say “Interview me in rounds first” to build the plan around each person's allergies, food preferences, fear of heights, mobility and activity limits. The interview asks for practical constraints and supports a shared route plus optional splits.
 
+For unfamiliar destinations, the skill proactively finds local experiences, hidden costs, permits, seasonal constraints, and hard-to-connect legs. Its regional research prompts span Africa, Europe, the Americas, Asia, the Middle East, Oceania, and the polar regions.
+
 ### Getting started
 
 Clone or download this repository, open its folder in Codex, and try:
@@ -43,6 +48,7 @@ Clone or download this repository, open its folder in Codex, and try:
 > Use $travel-guide to plan a seven-day international trip focused on food, public transport, and a relaxed pace. For the key attractions, restaurants, and hotels, compare praise, complaints, and disagreements across review platforms, then recommend a pick and a fallback.
 
 - [Skill](.agents/skills/travel-guide/SKILL.md)
+- [Destination discovery](.agents/skills/travel-guide/references/destination-discovery.md#english)
 - [Traveler interview](.agents/skills/travel-guide/references/traveler-interview.md#english)
 - [International travel field guide](.agents/skills/travel-guide/references/international-planning.en.md)
 - [Cross-platform reviews and access fallbacks](.agents/skills/travel-guide/references/community-evidence.md)
