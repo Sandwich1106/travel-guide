@@ -1,22 +1,39 @@
-# 深度旅游攻略
+# 深度旅游攻略 · Travel Guide
 
-一个中文 Codex 项目。把旅行偏好、实地经验和实时官方资料整理成可执行的行程，覆盖从选目的地到出发当天改计划的过程。
+[简体中文](#简体中文) · [English](#english)
 
-## 开始使用
+## 简体中文
 
-在 Codex 中将本目录添加为本地项目，在项目内开启对话并输入：
+一个以出境自由行为重点的 Codex 项目，支持目的地比较、逐日行程、预算和预约、行前核验、攻略审查及途中改线。默认匹配你的提问语言，也可要求中英双语交付。
 
-> 用 $travel-guide 帮我做一份旅游攻略。我从上海出发，想找一个适合 5 天慢游、吃得好、公共交通方便的目的地。请先比较三个候选，再排推荐路线。
+对重要的景点、餐厅和酒店，尽量在多个可访问平台上对照**同一地点或分店**的实测。攻略会归纳共识、分歧及适用人群，说明该怎么选。Reddit、Tripadvisor、Google 地图或当地平台打不开时，跳过并使用可访问的替代来源。开放时间、预约、签证和交通等关键事实以官方或运营方资料核验。
 
-如果目的地已定，可以直接提供出发地、具体日期或日期范围、人数、预算口径、最想体验的事，以及需要避开的安排。有航班、酒店或活动订单时，给出必要的时间地点即可。攻略默认用中文，保留当地名称便于导航。
+### 开始使用
 
-也可以直接说“审查这份攻略，帮我找出走不通的地方”或“明天有暴雨，请保留已订项目，帮我重排后两天”。项目内可直接引用 [SKILL.md](.agents/skills/travel-guide/SKILL.md)。
+将本仓库克隆或下载到本地，在 Codex 中打开项目目录，再输入：
 
-## 项目内容
+> 用 $travel-guide 帮我做一份 7 天的境外自由行攻略。我喜欢美食和公共交通，节奏偏慢。对重点景点、餐厅和酒店，请对比不同平台的好评、差评和分歧，再给出推荐和备选。
 
-- [攻略 Skill](.agents/skills/travel-guide/SKILL.md)
+- [Skill](.agents/skills/travel-guide/SKILL.md)
+- [多平台评价与访问回退](.agents/skills/travel-guide/references/community-evidence.md)
 - [实地信息核验与行程审查](.agents/skills/travel-guide/references/research-and-audit.md)
-- [完整攻略、随身卡与重排交付模板](.agents/skills/travel-guide/references/deliverables.md)
-- [调研来源与采纳说明](SOURCES.md)
+- [交付模板](.agents/skills/travel-guide/references/deliverables.md)
+- [调研来源](SOURCES.md)
 
-调研覆盖代表性的官方机构、旅行作者、中文游记和开源研究。具体行程的票价、时刻、预约、开放状态与出行规则按出发日期重新查证。
+## English
+
+A Codex project for practical, personalized travel planning, with an emphasis on international trips. It covers destination choices, daily routes, budgets, reservations, pre-trip checks, itinerary audits, and on-the-road changes. It matches the language of your request and can produce a bilingual guide on request.
+
+For key attractions, restaurants, and hotels, it compares firsthand accounts for **the same venue or branch** across accessible platforms. It summarizes what visitors agree on, where experiences diverge, and who each pick suits. If Reddit, Tripadvisor, Google Maps, or a local platform is unavailable, it switches to accessible sources. Rules and logistics such as opening times, booking requirements, entry rules, and transport are verified with operators or authorities.
+
+### Getting started
+
+Clone or download this repository, open its folder in Codex, and try:
+
+> Use $travel-guide to plan a seven-day international trip focused on food, public transport, and a relaxed pace. For the key attractions, restaurants, and hotels, compare praise, complaints, and disagreements across review platforms, then recommend a pick and a fallback.
+
+- [Skill](.agents/skills/travel-guide/SKILL.md)
+- [Cross-platform reviews and access fallbacks](.agents/skills/travel-guide/references/community-evidence.md)
+- [Research and itinerary audit](.agents/skills/travel-guide/references/research-and-audit.en.md)
+- [Deliverable templates](.agents/skills/travel-guide/references/deliverables.en.md)
+- [Research sources](SOURCES.en.md)

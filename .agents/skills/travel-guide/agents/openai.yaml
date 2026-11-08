@@ -1,4 +1,4 @@
 interface:
-  display_name: "深度旅游攻略"
-  short_description: "研究、编排并核验可执行的个性化旅游攻略，支持行前准备与途中改线"
-  default_prompt: "使用 $travel-guide 为我制作一份可执行的深度旅游攻略。"
+  display_name: "Travel Guide · 深度旅游攻略"
+  short_description: "Bilingual travel planning with cross-platform reviews"
+  default_prompt: "Use $travel-guide to plan my trip. / 用 $travel-guide 为我制作旅游攻略。"

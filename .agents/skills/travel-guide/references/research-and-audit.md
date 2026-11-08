@@ -1,5 +1,7 @@
 # 研究与审查规则
 
+[English](research-and-audit.en.md) · [多平台评价与访问回退](community-evidence.md)
+
 ## 按要做的决定找来源
 
 | 要确认的事 | 先查 | 补查与判断 |

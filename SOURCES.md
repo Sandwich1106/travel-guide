@@ -13,3 +13,9 @@
 | [TravelPlanner 开源仓库](https://github.com/OSU-NLP-Group/TravelPlanner) · [ICML 论文](https://proceedings.mlr.press/v235/xie24j.html) | 分开检查环境限制、用户硬约束和日程常识，再核对交通、夜数及总预算 | 借鉴评测框架。实际规划使用一手数据和实时查证 |
 
 本项目自行编写 Skill 和模板。各来源承担不同角色：官方及经营方提供规则，实测帮助判断体验，开源研究帮助定义如何找出计划冲突。
+
+## 多平台评价
+
+[English sources](SOURCES.en.md) · [完整平台清单与比较方法](.agents/skills/travel-guide/references/community-evidence.md)
+
+[Tripadvisor Forums](https://www.tripadvisor.com/ForumHome) 和 [Rick Steves Travel Forum](https://www.ricksteves.com/travel-forum) 用于查目的地和主题讨论。[Google 地图评价说明](https://support.google.com/maps/answer/6230175) 与 [Tabelog](https://tabelog.com/en/) 提供地点评价或当地餐饮线索。评价按地点、到访时段与旅客类型对照。根据当前可访问性替换来源。
