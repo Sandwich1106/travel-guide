@@ -1,6 +1,6 @@
 ---
 name: travel-guide
-description: Research, plan, audit, and revise personalized travel guides, especially international itineraries. Use for destination choices, day-by-day routes, booking and budgets, cross-platform reviews, or trip disruptions. 支持中英双语旅游攻略、海外实测与多平台评价对照。
+description: Research, plan, audit, and revise personalized travel guides, especially international itineraries. Use for destination choices, day-by-day routes, visas and connectivity, multimodal transfers, payments, hotel/airfare comparison, cross-platform reviews, or trip disruptions. 支持中英双语旅游攻略、海外实测与多平台评价对照。
 ---
 
 # Travel Guide / 深度旅游攻略
@@ -12,6 +12,10 @@ Respond in the user's requested language or match the language of their request 
 - **Choose a destination.** Compare a few candidates by interests, season, door-to-door cost and time, usable days, and material constraints. If dates are flexible, compare windows and sketch the leading route.
 - **Plan a trip.** Lock booked flights, stays, tickets, and traveler constraints first. Separate requirements, priorities, and flexible extras. Identify origin, dates, travelers, budget scope, interests, and pace. Ask about passport nationality/type or residency only when it changes cross-border eligibility. Ask only for details that change the plan. Use explicit assumptions or conditional branches for the rest.
 - **Audit or replan.** Keep valid commitments. Recompute downstream travel, costs, cancellations, and bookings after changes. During a disruption, lead with what to do now, the latest decision time, and a route back.
+
+## Full international guides
+
+Use [international field guide, EN](references/international-planning.en.md) or [出境旅行实务手册，中文](references/international-planning.md). Cover visas/transit, connectivity, every transport leg, payments and cash, area-first lodging, comparable airfare, food-first dining, and activities/packing/health. Apply this full scope when the user requests a complete overseas guide. For narrower questions, use only the relevant modules. Where a map shows no transit, continue with local operators, airport/port and tourism-board sources. Resolve scarce or unusual transfers before committing the route. Distinguish unknowns from verified facts and give a next step for each material gap.
 
 ## Research, plan, and check
 

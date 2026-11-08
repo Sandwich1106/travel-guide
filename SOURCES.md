@@ -19,3 +19,9 @@
 [English sources](SOURCES.en.md) · [完整平台清单与比较方法](.agents/skills/travel-guide/references/community-evidence.md)
 
 [Tripadvisor Forums](https://www.tripadvisor.com/ForumHome) 和 [Rick Steves Travel Forum](https://www.ricksteves.com/travel-forum) 用于查目的地和主题讨论。[Google 地图评价说明](https://support.google.com/maps/answer/6230175) 与 [Tabelog](https://tabelog.com/en/) 提供地点评价或当地餐饮线索。评价按地点、到访时段与旅客类型对照。根据当前可访问性替换来源。
+
+## 出境实务补充来源
+
+- 地图盲区：斐济旅游局、机场与长途巴士公司分别提供路线、上下车和时刻线索。适用日期仍需核对。[Tourism Fiji](https://www.fiji.travel/things-to-know/getting-around/land-airport-transfers) · [Fiji Airports](https://fijiairports.com/public-buses/) · [Pacific Transport](https://www.pacifictransport.com.fj/time-table.html)
+- 低频接驳：水飞、塔纳岛国内航段与四驱接驳、汉密尔顿岛球车各有不同的销售渠道与条件。[Trans Maldivian Airways](https://www.transmaldivian.com/faq/) · [Vanuatu Tourism Office](https://www.vanuatu.travel/en/about-vanuatu/provinces/tafea/tanna) · [Hamilton Island Buggy Hire](https://www.hamiltonisland.com.au/getting-around-island/buggy-hire)
+- 证件、通信、机票与健康的查询入口示例。[IATA Travel Centre](https://www.iata.org/en/travel-centre) · [Apple 国际旅行 eSIM](https://support.apple.com/en-gb/118227) · [Google Flights 价格洞察](https://support.google.com/travel/answer/6235879?hl=en) · [CDC 旅行健康](https://wwwnc.cdc.gov/travel/page/faq)

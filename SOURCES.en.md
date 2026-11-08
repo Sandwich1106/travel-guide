@@ -13,3 +13,9 @@
 | [Tripadvisor Forums](https://www.tripadvisor.com/ForumHome), [Rick Steves Travel Forum](https://www.ricksteves.com/travel-forum), [Google Maps reviews](https://support.google.com/maps/answer/6230175), and [Tabelog](https://tabelog.com/en/) | Adds firsthand perspectives and venue-specific feedback, subject to access and verification |
 
 Verify trip-specific facts and availability afresh. Use firsthand reports for experience and primary sources for rules and logistics.
+
+## International logistics sources
+
+- Mapping gaps: use destination, airport, and coach operator sources to identify routes, stops and timetables. Confirm the applicable date. [Tourism Fiji](https://www.fiji.travel/things-to-know/getting-around/land-airport-transfers) · [Fiji Airports](https://fijiairports.com/public-buses/) · [Pacific Transport](https://www.pacifictransport.com.fj/time-table.html)
+- Scarce connections: seaplanes, Tanna flights and 4WD transfers, and Hamilton Island buggies have different booking channels and constraints. [Trans Maldivian Airways](https://www.transmaldivian.com/faq/) · [Vanuatu Tourism Office](https://www.vanuatu.travel/en/about-vanuatu/provinces/tafea/tanna) · [Hamilton Island Buggy Hire](https://www.hamiltonisland.com.au/getting-around-island/buggy-hire)
+- Research entry points for boarding documents, connectivity, fares and travel health. [IATA Travel Centre](https://www.iata.org/en/travel-centre) · [Apple's travel eSIM guide](https://support.apple.com/en-gb/118227) · [Google Flights price insights](https://support.google.com/travel/answer/6235879?hl=en) · [CDC Travelers’ Health](https://wwwnc.cdc.gov/travel/page/faq)

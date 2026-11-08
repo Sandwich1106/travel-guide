@@ -24,6 +24,8 @@ For high-impact facts, record a direct link, verification date, applicable date,
 
 ## Check before delivery
 
+For a full international trip, check each module in the [field guide](international-planning.en.md). Test the most fragile connection using every leg's time and cutoff. Check that the cash recommendation reconciles with planned spending, flight and hotel comparisons match terms, and sunrise/sunset spots are accessible both ways.
+
 - Every overnight has a place, dates reconcile across midnight, and arrival, storage, check-in/out, and departure fit.
 - Critical legs fit door to door with queues, meals, rest and transfer buffers. Check outward and return services. Work backwards from hard deadlines and verify fallback transport.
 - Opening and availability are distinct. Include booking windows and time zones, sales links, ID requirements and cancellation deadlines where relevant.

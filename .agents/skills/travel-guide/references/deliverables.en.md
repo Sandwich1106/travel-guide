@@ -12,6 +12,18 @@
 | Local date and window | Activity and location | From previous stop | Deadline or booking | Cost and status | Optional stop or fallback |
 | --- | --- | --- | --- | --- | --- |
 
+## Operational tables for a full international trip
+
+Use the [international field guide](international-planning.en.md) for applicable items. Lead with entry, transit and scarce transfers that determine feasibility. Give visa and SIM decisions, price, steps, timing or validity, direct channels, and pending checks. Show the cash calculation and initial withdrawal/exchange. Give searchable lodging areas and commute reasoning before hotel picks. Show comparable hotel/flight quotes, lookup times, and booking decisions.
+
+| Leg endpoints and departure window | Mode, operator, boarding and arrival points | Ride plus walk/wait/transfer equals total time | Price, unit, payment or booking | Latest departure or connection, fallback, status |
+| --- | --- | --- | --- | --- |
+
+| Activity and photo spot | Price, booking and deadline | Documents, limits and gear | Queue, extra walking and viewing window | Weather fallback |
+| --- | --- | --- | --- | --- |
+
+Keep applicable columns. Where a dependable number is unavailable, use a sourced range or mark it pending with a contact and recheck deadline. Put the pre-trip timeline and activity-specific packing in the full guide and keep the mobile card focused on today's actions.
+
 ## Mobile card
 
 Keep each day scannable. Include where to start, the latest departure, booked times, easy-to-miss entrances, meal and rest options, return route and fallback triggers. Use verified navigation links plus copyable local addresses. Match the times and booking status in the full plan.
