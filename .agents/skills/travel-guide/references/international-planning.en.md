@@ -25,6 +25,8 @@ Cover the modules below for a full international guide. Mark inapplicable items,
 
 ## 4. Payments, exchange, and cash
 
+For relevant taxis, tickets and payments, use [price pitfalls](price-pitfalls.md#english) to show a comparable fare, what to confirm on the spot, and a concrete alternative.
+
 - Check cash, physical cards and contactless wallets such as Apple Pay for actual lodgings, restaurants, transit, taxis, markets, tickets, deposits and tips. Account for town/rural differences, card network and foreign-card acceptance, minimums, change, small denominations and offline situations.
 - Calculate cash as confirmed cash-only expenses plus estimated small purchases and a contingency, less local currency already held. Show per-trip range and assumptions, initial amount to withdraw/exchange, replenishment points, and usable ATM or exchange channels. Keep deposits or holds separate.
 - Compare all-in home-currency cost on the same purchase for exchange, ATM, physical cards and wallets. Include issuer FX fees and rates, local ATM or merchant surcharges and dynamic currency conversion (DCC). Separate taxes from payment fees. Give a break-even or a pending item if rates are missing. Show known differences between local-currency settlement and DCC offers.

@@ -23,12 +23,14 @@
 > 用 $travel-guide 帮我做一份 7 天的境外自由行攻略。我喜欢美食和公共交通，节奏偏慢。对重点景点、餐厅和酒店，请对比不同平台的好评、差评和分歧，再给出推荐和备选。
 
 - [Skill](.agents/skills/travel-guide/SKILL.md)
+- [防宰客与价格核验](.agents/skills/travel-guide/references/price-pitfalls.md#简体中文)
 - [按预算设计旅行](.agents/skills/travel-guide/references/budget-and-value.md#简体中文)
 - [全球目的地排查](.agents/skills/travel-guide/references/destination-discovery.md#简体中文)
 - [旅行需求访谈](.agents/skills/travel-guide/references/traveler-interview.md#简体中文)
 - [出境旅行实务手册](.agents/skills/travel-guide/references/international-planning.md)
 - [多平台评价与访问回退](.agents/skills/travel-guide/references/community-evidence.md)
 - [实地信息核验与行程审查](.agents/skills/travel-guide/references/research-and-audit.md)
+- [PDF／Excel 交付与原件更新](.agents/skills/travel-guide/references/file-delivery.md#简体中文)
 - [交付模板](.agents/skills/travel-guide/references/deliverables.md)
 - [调研来源](SOURCES.md)
 
@@ -53,11 +55,13 @@ Clone or download this repository, open its folder in Codex, and try:
 > Use $travel-guide to plan a seven-day international trip focused on food, public transport, and a relaxed pace. For the key attractions, restaurants, and hotels, compare praise, complaints, and disagreements across review platforms, then recommend a pick and a fallback.
 
 - [Skill](.agents/skills/travel-guide/SKILL.md)
+- [Overcharging and price checks](.agents/skills/travel-guide/references/price-pitfalls.md#english)
 - [Budget and value](.agents/skills/travel-guide/references/budget-and-value.md#english)
 - [Destination discovery](.agents/skills/travel-guide/references/destination-discovery.md#english)
 - [Traveler interview](.agents/skills/travel-guide/references/traveler-interview.md#english)
 - [International travel field guide](.agents/skills/travel-guide/references/international-planning.en.md)
 - [Cross-platform reviews and access fallbacks](.agents/skills/travel-guide/references/community-evidence.md)
 - [Research and itinerary audit](.agents/skills/travel-guide/references/research-and-audit.en.md)
+- [PDF and Excel delivery and revisions](.agents/skills/travel-guide/references/file-delivery.md#english)
 - [Deliverable templates](.agents/skills/travel-guide/references/deliverables.en.md)
 - [Research sources](SOURCES.en.md)

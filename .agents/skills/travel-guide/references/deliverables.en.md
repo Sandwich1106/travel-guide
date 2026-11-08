@@ -34,8 +34,10 @@ Keep applicable columns. Where a dependable number is unavailable, use a sourced
 
 ## Mobile card
 
+For meaningful quote gaps or extras, include the [price check](price-pitfalls.md#english) with a usable reference fare, confirmation line and fallback.
+
 Keep each day scannable. Include where to start, the latest departure, booked times, easy-to-miss entrances, meal and rest options, return route and fallback triggers. Use verified navigation links plus copyable local addresses. Match the times and booking status in the full plan.
 
 ## Audit and replanning
 
-Rank issues by failure risk, material impact, then optional improvements. Link evidence, name affected dates, and offer the smallest workable fix. When replanning, give the immediate action, decision deadline, affected bookings, incremental cost, updated route and return. Explain any unavoidable trade-off. Use Markdown unless another format is requested.
+Rank issues by failure risk, material impact, then optional improvements. Link evidence, name affected dates, and offer the smallest workable fix. When replanning, give the immediate action, decision deadline, affected bookings, incremental cost, updated route and return. Explain any unavoidable trade-off. Use Markdown unless another format is requested. For PDF, Excel and revisions, see [file delivery](file-delivery.md#english).
