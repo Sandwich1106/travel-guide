@@ -30,7 +30,7 @@
 - [出境旅行实务手册](.agents/skills/travel-guide/references/international-planning.md)
 - [多平台评价与访问回退](.agents/skills/travel-guide/references/community-evidence.md)
 - [实地信息核验与行程审查](.agents/skills/travel-guide/references/research-and-audit.md)
-- [PDF／Excel 交付与原件更新](.agents/skills/travel-guide/references/file-delivery.md#简体中文)
+- [PDF／Excel／可选思维导图与原件更新](.agents/skills/travel-guide/references/file-delivery.md#简体中文)
 - [交付模板](.agents/skills/travel-guide/references/deliverables.md)
 - [调研来源](SOURCES.md)
 
@@ -62,6 +62,6 @@ Clone or download this repository, open its folder in Codex, and try:
 - [International travel field guide](.agents/skills/travel-guide/references/international-planning.en.md)
 - [Cross-platform reviews and access fallbacks](.agents/skills/travel-guide/references/community-evidence.md)
 - [Research and itinerary audit](.agents/skills/travel-guide/references/research-and-audit.en.md)
-- [PDF and Excel delivery and revisions](.agents/skills/travel-guide/references/file-delivery.md#english)
+- [PDF, Excel, optional mind map, and revisions](.agents/skills/travel-guide/references/file-delivery.md#english)
 - [Deliverable templates](.agents/skills/travel-guide/references/deliverables.en.md)
 - [Research sources](SOURCES.en.md)
