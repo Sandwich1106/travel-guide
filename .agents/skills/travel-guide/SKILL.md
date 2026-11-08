@@ -1,6 +1,6 @@
 ---
 name: travel-guide
-description: Research, plan, audit, and revise personalized travel guides, especially international itineraries. Use for destination choices, day-by-day routes, visas and connectivity, multimodal transfers, payments, hotel/airfare comparison, cross-platform reviews, or trip disruptions. 支持中英双语旅游攻略、海外实测与多平台评价对照。
+description: Research, plan, audit, and revise personalized travel guides, especially international itineraries. Use for destination choices, day-by-day routes, visas and connectivity, multimodal transfers, payments, hotel/airfare comparison, cross-platform reviews, traveler interviews, or trip disruptions. 支持中英双语旅游攻略、海外实测与多平台评价对照。
 ---
 
 # Travel Guide / 深度旅游攻略
@@ -12,6 +12,10 @@ Respond in the user's requested language or match the language of their request 
 - **Choose a destination.** Compare a few candidates by interests, season, door-to-door cost and time, usable days, and material constraints. If dates are flexible, compare windows and sketch the leading route.
 - **Plan a trip.** Lock booked flights, stays, tickets, and traveler constraints first. Separate requirements, priorities, and flexible extras. Identify origin, dates, travelers, budget scope, interests, and pace. Ask about passport nationality/type or residency only when it changes cross-border eligibility. Ask only for details that change the plan. Use explicit assumptions or conditional branches for the rest.
 - **Audit or replan.** Keep valid commitments. Recompute downstream travel, costs, cancellations, and bookings after changes. During a disruption, lead with what to do now, the latest decision time, and a route back.
+
+## Personalize before committing the route
+
+Use the [traveler interview / 旅行需求访谈](references/traveler-interview.md) for personalized plans. Ask the few decision-changing questions that are ready now, then use the answers to choose the next round. For group trips, track each person's hard limits separately from preferences. Screen shared plans and backups for food allergies, activity restrictions and access needs. Keep unresolved safety constraints conditional and offer a workable fallback.
 
 ## Full international guides
 

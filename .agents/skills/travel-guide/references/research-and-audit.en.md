@@ -24,6 +24,8 @@ For high-impact facts, record a direct link, verification date, applicable date,
 
 ## Check before delivery
 
+Use the [traveler interview](traveler-interview.md#english) to check primary and fallback plans, bookings and split logistics against each person’s allergies, dietary preferences and activity restrictions.
+
 For a full international trip, check each module in the [field guide](international-planning.en.md). Test the most fragile connection using every leg's time and cutoff. Check that the cash recommendation reconciles with planned spending, flight and hotel comparisons match terms, and sunrise/sunset spots are accessible both ways.
 
 - Every overnight has a place, dates reconcile across midnight, and arrival, storage, check-in/out, and departure fit.
