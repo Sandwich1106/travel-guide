@@ -1,38 +1,41 @@
 ---
 name: travel-guide
-description: Research, plan, audit, and revise personalized travel guides, especially international itineraries. Use for destination choices, day-by-day routes, visas and connectivity, multimodal transfers, payments, hotel/airfare comparison, budget optimization, cross-platform reviews, traveler interviews, or trip disruptions. 支持中英双语旅游攻略、海外实测与多平台评价对照。
+description: Research, plan, audit, and revise personalized travel itineraries. Use for destination comparisons, international trip logistics, budgets, reservations, travel disruptions, or editable itinerary mind maps. 支持中文与英文旅行规划。
 ---
 
 # Travel Guide / 深度旅游攻略
 
-Respond in the user's requested language or match the language of their request (English or Simplified Chinese). Produce a bilingual guide when requested. Keep local names and searchable addresses for navigation. Use local dates and times, and make time zones and date changes explicit on cross-border or overnight legs.
+Match the user's language and requested scope. Keep local names searchable and use local dates, time zones and overnight date changes explicitly.
 
-## Match the task
+## Choose the mode and load only what it needs
 
-- **Choose a destination.** Compare a few candidates by interests, season, door-to-door cost and time, usable days, and material constraints. If dates are flexible, compare windows and sketch the leading route.
-- **Plan a trip.** Lock booked flights, stays, tickets, and traveler constraints first. Separate requirements, priorities, and flexible extras. Identify origin, dates, travelers, budget scope, interests, and pace. Ask about passport nationality/type or residency only when it changes cross-border eligibility. Ask only for details that change the plan. Use explicit assumptions or conditional branches for the rest.
-- **Audit or replan.** Keep valid commitments. Recompute downstream travel, costs, cancellations, and bookings after changes. During a disruption, lead with what to do now, the latest decision time, and a route back.
+| Request | Read first | Add when relevant |
+| --- | --- | --- |
+| Compare destinations | [Discovery](references/destination-discovery.md), [budget/value](references/budget-and-value.md) | [Community evidence](references/community-evidence.md) for consequential picks |
+| Full itinerary | [Ordered workflow](references/planning-workflow.md), [interview](references/traveler-interview.md) | [International field guide](references/international-planning.md) or [English](references/international-planning.en.md) for overseas trips |
+| Continue or combine past plans | [Continuity and privacy](references/continuity-and-long-routes.md) | Workflow stages affected by the changes |
+| Audit or disruption | [Research/audit](references/research-and-audit.md) or [English](references/research-and-audit.en.md) | Relevant transport, budget and booking dependencies |
+| Deliver files or revise an artifact | [File delivery](references/file-delivery.md) | [Mind-map standard](references/mind-map.md) only when a map is requested |
 
-## End-to-end workflow
+Use the linked references as task-specific procedures, not a checklist to load in full for every question. Narrow questions need only relevant modules.
 
-For full plans, follow the [ordered planning workflow / 完整规划工作流](references/planning-workflow.md): requirements → feasibility gates → research → route skeleton → transport and lodging → daily pacing → budget → booking dependencies → fallback audit → delivery and maintenance. Use its stage outputs and acceptance checks; revisit downstream records when a prerequisite changes. For narrow questions, use only relevant stages.
+## Decision rules
 
-## Personalize before committing the route
+1. Restore booked commitments and the latest explicit user decisions. Separate hard constraints, preferences, exclusions and unresolved conditions; do not transfer assumptions between trips. Ask only questions that change the decision, using conditional options for remaining gaps. Check each traveler's relevant food, activity and access limits.
+2. Check trip-breaking entry/transit, safety, permits, seasonal closures and scarce connections before detailed routing. Research current facts from authorities and operators. Distinguish verified fact, estimate, experience lead, pending confirmation, available inventory and booked order. Every consequential unknown needs an impact, verification route and recheck trigger.
+3. For full routes, discover local opportunities and hidden costs before committing. Compare door-to-door alternatives within the budget; include walking, queues, baggage, transfers, meals and rest. Give every night a location, protect core experiences, and back-plan from hard deadlines. Unknown map routes require local operator/airport/port research.
+4. For key venues, compare the same place/branch across accessible firsthand sources using [community evidence](references/community-evidence.md). Preserve meaningful disagreement and use accessible fallbacks. Rules and live logistics still need authoritative evidence.
+5. Reconcile original currency, units, shared costs, taxes, quote dates, paid/outstanding and contingency. Use [budget/value](references/budget-and-value.md) and [price pitfalls](references/price-pitfalls.md). Redesign an over-budget route around core experiences before merely reducing comfort.
+6. Preserve exclusions in main and fallback plans. A fallback needs a switching trigger, latest decision time, reachable route and downstream order/cost effects. In a disruption lead with the immediate action and return path.
 
-Use the [traveler interview / 旅行需求访谈](references/traveler-interview.md) for personalized plans. Ask the few decision-changing questions that are ready now, then use the answers to choose the next round. For group trips, track each person's hard limits separately from preferences. Screen shared plans and backups for food allergies, activity restrictions and access needs. Keep unresolved safety constraints conditional and offer a workable fallback.
+## Output contract
 
-## Full international guides
+Use [Chinese deliverables](references/deliverables.md) or [English deliverables](references/deliverables.en.md). Scale detail to the request. Full plans include a decision brief, daily route, transport/lodging decisions, reproducible budget, booking/recheck dependencies and operational fallbacks. Mark unresolved critical dependencies as a research-stage plan.
 
-Use [international field guide, EN](references/international-planning.en.md) or [出境旅行实务手册，中文](references/international-planning.md). Cover visas/transit, connectivity, every transport leg, payments and cash, area-first lodging, comparable airfare, food-first dining, and activities/packing/health. Apply this full scope when the user requests a complete overseas guide. For narrower questions, use only the relevant modules. Where a map shows no transit, continue with local operators, airport/port and tourism-board sources. Resolve scarce or unusual transfers before committing the route. Distinguish unknowns from verified facts and give a next step for each material gap.
+Keep summary, daily cards and files consistent through stable record IDs. Create itinerary files only when requested. When revising an identified artifact, read the user's latest source and preserve unrelated edits. Maps use separately editable nodes, activity-adjacent prices, exterior connector routing, and both clickable draw.io and HTML entries; apply the detailed mind-map standard.
 
-## Research, plan, and check
+Research does not authorize purchases, applications, bookings or cancellations. Keep real trip records, exact future movements, health/identity information and orders private; public improvements contain generic methods or synthetic cases. Never report an artifact or booking as delivered unless it actually exists.
 
-1. For destination comparisons and full trips, run [destination discovery / 全球目的地排查](references/destination-discovery.md) before routing. Use the itinerary triggers even for countries absent from the examples. Proactively surface local experiences, logistics gaps, rules, hidden costs, and seasonal dependencies the traveler may have missed. Verify trip-breaking conditions first: entry and transit, permit eligibility, closures, ticket windows, and sparse return transport. Research current facts online. Prefer authorities and operators for rules and logistics. See [research and audit, EN](references/research-and-audit.en.md) or [核验与审查，中文](references/research-and-audit.md).
-2. For consequential recommendations such as hotels, restaurants, and attractions, compare firsthand accounts for the **same venue or branch** across accessible platforms. Include destination forums, maps/reviews, and local-language sources where useful. Synthesize recurring strengths, recurring issues, and meaningful disagreements by traveler profile and visit conditions. Use the [community evidence protocol / 多平台评价规则](references/community-evidence.md), including fallback when sites are inaccessible.
-3. Use [budget and value / 按预算设计旅行](references/budget-and-value.md) for destination choices and full trips. Search for viable ways to preserve the core experience at the traveler’s budget before committing to a route. Compare the true all-in cost and trade-offs of materially different modes, and redesign around the hard cap when needed. Set arrival and departure gateways, lodging bases, and nights. Build around fixed bookings, operating hours, and daylight. Group stops geographically. Check each critical leg door to door, including walks, waits, queues, transfers, meals, and rest. Back-plan from last admission, reserved slots, and last departures. Prepare a reachable fallback with a clear switching trigger for vulnerable anchors.
-4. Reconcile total and per-person costs, shared costs, paid vs. outstanding, currency, taxes, and quote dates. Order reservations by deadline and dependencies. Distinguish verified availability from confirmed bookings and future release windows. Use [price pitfalls / 防宰客与价格核验](references/price-pitfalls.md) where tourist quotes, payment fees, or unofficial sales can materially affect the route. Planning is read-only; purchases, applications, bookings, and cancellations require explicit authorization.
-5. Audit feasibility before delivery. Put unverified critical legs up front with a recheck deadline and an alternative. Use [deliverables, EN](references/deliverables.en.md) or [攻略交付模板，中文](references/deliverables.md). Match detail to the decision and keep the daily mobile card consistent with the full guide. For PDF, Excel, or optional mind-map delivery and revisions, use [file delivery / 文件交付与原件更新](references/file-delivery.md). Generate a mind map only when the user chooses that format. When the user revises an identified deliverable, update it in place by default.
+## Maintaining this skill
 
-## History, privacy, and long routes
-
-Use [continuity and cross-border route checks](references/continuity-and-long-routes.md) when continuing project conversations, combining prior requirements, planning multi-country routes, or publishing reusable improvements. Keep separate trips and user decisions distinct from assistant proposals and live verification. Keep personal trip records private by default.
+Run `python3 scripts/validate_skill.py` from the repository root after structural changes. Use the synthetic scenarios in `evals/scenarios.md` for behavioral reviews; static validation does not establish itinerary feasibility or model quality.

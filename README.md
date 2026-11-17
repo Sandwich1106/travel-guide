@@ -72,3 +72,7 @@ Clone or download this repository, open its folder in Codex, and try:
 - [PDF, Excel, optional mind map, and revisions](.agents/skills/travel-guide/references/file-delivery.md#english)
 - [Deliverable templates](.agents/skills/travel-guide/references/deliverables.en.md)
 - [Research sources](SOURCES.en.md)
+
+## Skill 开发与验证
+
+入口按任务模式加载专题，保留完整规划和导图标准。参见[设计依据](docs/skill-design.md)与[合成评估场景](evals/scenarios.md)。在仓库根目录运行 `python3 scripts/validate_skill.py` 检查结构和本地链接；这不替代实时旅行核验或行为评估。
