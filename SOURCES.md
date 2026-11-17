@@ -41,3 +41,7 @@
 - [TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner)：延续硬约束、环境约束和常识约束分层检查；静态评测数据不能证明实时可售性。
 
 本轮将方法落到历史约束台账、逐段入境序列、间夜去重及公开发布边界，未复制第三方行程正文。
+
+## 完整工作流整合（2026-11-18）
+
+[规划工作流](.agents/skills/travel-guide/references/planning-workflow.md)整合本页来源与开源工具的组织思路，新增阶段产物、验收门槛、复核触发和关联记录管理。补充参考 [AdventureLog](https://github.com/seanmorley15/AdventureLog)、[TREK](https://github.com/liketrek/TREK)、[KDE Itinerary](https://apps.kde.org/itinerary/)。依据公开项目说明，未进行安装实测或全面代码审计，不作优劣排名。

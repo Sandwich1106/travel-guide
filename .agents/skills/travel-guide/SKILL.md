@@ -13,6 +13,10 @@ Respond in the user's requested language or match the language of their request 
 - **Plan a trip.** Lock booked flights, stays, tickets, and traveler constraints first. Separate requirements, priorities, and flexible extras. Identify origin, dates, travelers, budget scope, interests, and pace. Ask about passport nationality/type or residency only when it changes cross-border eligibility. Ask only for details that change the plan. Use explicit assumptions or conditional branches for the rest.
 - **Audit or replan.** Keep valid commitments. Recompute downstream travel, costs, cancellations, and bookings after changes. During a disruption, lead with what to do now, the latest decision time, and a route back.
 
+## End-to-end workflow
+
+For full plans, follow the [ordered planning workflow / 完整规划工作流](references/planning-workflow.md): requirements → feasibility gates → research → route skeleton → transport and lodging → daily pacing → budget → booking dependencies → fallback audit → delivery and maintenance. Use its stage outputs and acceptance checks; revisit downstream records when a prerequisite changes. For narrow questions, use only relevant stages.
+
 ## Personalize before committing the route
 
 Use the [traveler interview / 旅行需求访谈](references/traveler-interview.md) for personalized plans. Ask the few decision-changing questions that are ready now, then use the answers to choose the next round. For group trips, track each person's hard limits separately from preferences. Screen shared plans and backups for food allergies, activity restrictions and access needs. Keep unresolved safety constraints conditional and offer a workable fallback.
