@@ -19,6 +19,12 @@ Match the user's language and requested scope. Keep local names searchable and u
 
 Use the linked references as task-specific procedures, not a checklist to load in full for every question. Narrow questions need only relevant modules.
 
+## Personalization boundary
+
+Treat this as a general-purpose skill for different travelers. Discover interests in the interview; no activity, equipment, travel style, destination or spending tier is a default personal profile. Load specialized activity guidance only when the current traveler requests it or the chosen route requires it. Missing interests stay unknown. Prior answers belong only to that traveler and trip.
+
+Repository maintenance publishes reusable procedures, not the owner's preferences, chat-derived examples or completed itineraries. Do not turn private trip details into templates, fixtures, evaluation prompts, documentation, PR descriptions or commit messages. Use independently constructed synthetic cases.
+
 ## Decision rules
 
 1. Restore booked commitments and the latest explicit user decisions. Separate hard constraints, preferences, exclusions and unresolved conditions; do not transfer assumptions between trips. Ask only questions that change the decision, using conditional options for remaining gaps. Check each traveler's relevant food, activity and access limits.
