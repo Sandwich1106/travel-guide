@@ -36,6 +36,8 @@ Repository maintenance publishes reusable procedures, not the owner's preference
 
 ## Output contract
 
+For a full research-stage plan, adapt [the reusable plan template](assets/trip-plan.md). Keep confirmed traveler inputs, planning assumptions, external verification and remaining gaps distinct. A budget allocation without supplier quotes is a planning assumption, not a market estimate.
+
 Use [Chinese deliverables](references/deliverables.md) or [English deliverables](references/deliverables.en.md). Scale detail to the request. Full plans include a decision brief, daily route, transport/lodging decisions, reproducible budget, booking/recheck dependencies and operational fallbacks. Mark unresolved critical dependencies as a research-stage plan.
 
 Keep summary, daily cards and files consistent through stable record IDs. Create itinerary files only when requested. When revising an identified artifact, read the user's latest source and preserve unrelated edits. Maps use separately editable nodes, activity-adjacent prices, exterior connector routing, and both clickable draw.io and HTML entries; apply the detailed mind-map standard.
