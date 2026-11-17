@@ -34,6 +34,10 @@ Repository maintenance publishes reusable procedures, not the owner's preference
 5. Reconcile original currency, units, shared costs, taxes, quote dates, paid/outstanding and contingency. Use [budget/value](references/budget-and-value.md) and [price pitfalls](references/price-pitfalls.md). Redesign an over-budget route around core experiences before merely reducing comfort.
 6. Preserve exclusions in main and fallback plans. A fallback needs a switching trigger, latest decision time, reachable route and downstream order/cost effects. In a disruption lead with the immediate action and return path.
 
+## Conditional specialist checks
+
+For snow/ice road self-driving, read [winter driving](references/winter-driving.md). Keep static consistency results separate from live road, vehicle and driver eligibility gates.
+
 ## Output contract
 
 For a full research-stage plan, adapt [the reusable plan template](assets/trip-plan.md). Keep confirmed traveler inputs, planning assumptions, external verification and remaining gaps distinct. A budget allocation without supplier quotes is a planning assumption, not a market estimate.
