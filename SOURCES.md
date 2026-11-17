@@ -33,3 +33,11 @@
 ## 预算与玩法
 
 补充了园区自驾、骑行、公营营地、合法客运和跨境巴士等官方入口。用这些案例练习拆分费用与体验，再按实际日期核验可售性。[预算工作流及来源](.agents/skills/travel-guide/references/budget-and-value.md#简体中文)
+
+## 2026-11-18 方法补充
+
+- [Rick Steves 行程设计](https://www.ricksteves.com/travel-tips/trip-planning/itinerary-tips)：结合地理顺序、疲劳与节庆安排缓冲，用于长线审查。
+- [Intrepid Namibia Highlights](https://www.intrepidtravel.com/us/namibia/namibia-highlights-175486)：借鉴逐日路线、包含项目和 Essential Trip Information 分离呈现；跟团产品条件不直接套用自由行。
+- [TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner)：延续硬约束、环境约束和常识约束分层检查；静态评测数据不能证明实时可售性。
+
+本轮将方法落到历史约束台账、逐段入境序列、间夜去重及公开发布边界，未复制第三方行程正文。

@@ -33,6 +33,7 @@
 - [旅行思维导图标准与可编辑交付](.agents/skills/travel-guide/references/mind-map.md#简体中文)
 - [PDF／Excel／可选思维导图与原件更新](.agents/skills/travel-guide/references/file-delivery.md#简体中文)
 - [交付模板](.agents/skills/travel-guide/references/deliverables.md)
+- [历史约束、跨国长线与隐私](.agents/skills/travel-guide/references/continuity-and-long-routes.md)
 - [调研来源](SOURCES.md)
 
 ## English
