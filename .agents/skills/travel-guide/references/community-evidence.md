@@ -42,3 +42,7 @@ Illustrative only. One traveler forum praises a hotel's station access, while bo
 小红书搜索按目的地＋月份/天数/交通方式/预算，再补“避坑、失败、排队、实测、更新”等词；读取原笔记与可访问评论，记录出游时间和商业关系。无法访问则说明具体限制，使用其他中文作者与当地一手资料继续完成规划；不要用仿站、未经验证的镜像或抓取数据集冒充原帖。
 
 Use Chinese firsthand sources including Xiaohongshu where accessible, plus local-language communities and authoritative operators. Compare original independent accounts of the same product and visit conditions. Cross-posts and syndicated copies are one evidence family. Track full-text vs snippet-only vs inaccessible; do not invent note contents. Source breadth supports decisions, not a fixed quota for each trip.
+
+## 攻略日期门槛
+
+仅采用2022-01-01及以后发表或有实质更新依据的作者攻略、游记和体验报告。检索优先近期同季节实测。分别记录发表日、更新日、实际出游日及查验日；抓取日、页脚年份、标题旅行年份不能替代发表日期。2022年前且无实质新版的内容排除；日期未知退回待核，不进入有效证据计数。官方现行规则、运营条款、气候统计、工具与论文单独分类并查适用性，不伪装为通过筛选的近期攻略。
