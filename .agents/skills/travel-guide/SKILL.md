@@ -34,6 +34,10 @@ Repository maintenance publishes reusable procedures, not the owner's preference
 5. Reconcile original currency, units, shared costs, taxes, quote dates, paid/outstanding and contingency. Use [budget/value](references/budget-and-value.md) and [price pitfalls](references/price-pitfalls.md). Redesign an over-budget route around core experiences before merely reducing comfort.
 6. Preserve exclusions in main and fallback plans. A fallback needs a switching trigger, latest decision time, reachable route and downstream order/cost effects. In a disruption lead with the immediate action and return path.
 
+## Destination policy and source freshness
+
+After selecting destinations and transit points, use [destination-policy checks](references/destination-policy.md): verify currently effective entry/local rules, amendments and traveler treatment reports; distinguish law, operator terms and anecdote. Use post-2021 travel experiences and inspect image-based guides with the [community evidence/OCR protocol](references/community-evidence.md) when original images are accessible. Verify dates, not just repost dates; do not claim OCR or latest-policy verification without actually performing it.
+
 ## Conditional specialist checks
 
 For snow/ice road self-driving, read [winter driving](references/winter-driving.md). Keep static consistency results separate from live road, vehicle and driver eligibility gates.
