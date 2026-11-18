@@ -4,7 +4,7 @@
 
 ## 简体中文
 
-一个以出境自由行为重点的 Codex 项目，支持目的地比较、逐日行程、预算和预约、行前核验、攻略审查及途中改线。默认匹配你的提问语言，也可要求中英双语交付。
+面向不同旅客的中英双语旅行规划 Skill，支持国内与出境自由行、目的地比较、分轮需求访谈、逐日路线、门到门交通、预算、酒店与租车候选、攻略自检及途中改线。入口简洁，专题按任务加载；不预设维护者的爱好或旅行习惯。
 
 对重要的景点、餐厅和酒店，尽量在多个可访问平台上对照**同一地点或分店**的实测。攻略会归纳共识、分歧及适用人群，说明该怎么选。Reddit、Tripadvisor、Google 地图或当地平台打不开时，跳过并使用可访问的替代来源。开放时间、预约、签证和交通等关键事实以官方或运营方资料核验。
 
@@ -15,6 +15,16 @@
 即使你第一次去、还不知道要问什么，Skill 也会先排查当地独特体验、隐藏费用、许可、季节限制和难接驳路段。覆盖非洲、欧洲、美洲、亚洲、中东、大洋洲和极地的研究起点。
 
 从预算和最想保留的体验出发，主动查公交、合乘、公营营地、当地小团等选择，也比较值得花钱的升级。出预算时先重排玩法，再给差额和取舍。
+
+### 远期规划也能完整交付
+
+- 天气尚未进入预报窗口时，查历史同期和多年气候资料，给有依据的季节估计及装备建议。
+- 酒店、租车未选定时，主动比较评价、位置、配置、条款和参考价格，交付候选与备选。
+- 自驾提供风险提示、车辆要求与替代方式，不认证驾驶能力。
+- **攻略内容自检**检查完整性、路线、夜数、预算、证据和文件一致性；预订、短期天气和当日放行另列临行复核，不因此无限阻塞攻略交付。
+- 不把历史参考说成实时预报，不把候选说成已订；真实旅行资料与个人习惯不进入公开模板。
+
+详见[攻略完成度与临行复核](.agents/skills/travel-guide/references/planning-readiness.md)。
 
 ### 规划方法与阅读顺序
 
@@ -42,7 +52,7 @@
 
 ## English
 
-A Codex project for practical, personalized travel planning, with an emphasis on international trips. It covers destination choices, daily routes, budgets, reservations, pre-trip checks, itinerary audits, and on-the-road changes. It matches the language of your request and can produce a bilingual guide on request.
+A bilingual travel-planning skill for domestic and international independent trips. It covers destination comparisons, interviews, daily itineraries, door-to-door transport, budgets, hotel and car-rental candidates, guide-quality checks, and disruption planning. A concise entrypoint loads references by task; the maintainer’s preferences are never a default traveler profile.
 
 For key attractions, restaurants, and hotels, it compares firsthand accounts for **the same venue or branch** across accessible platforms. It summarizes what visitors agree on, where experiences diverge, and who each pick suits. If Reddit, Tripadvisor, Google Maps, or a local platform is unavailable, it switches to accessible sources. Rules and logistics such as opening times, booking requirements, entry rules, and transport are verified with operators or authorities.
 
@@ -53,6 +63,12 @@ Say “Interview me in rounds first” to build the plan around each person's al
 For unfamiliar destinations, the skill proactively finds local experiences, hidden costs, permits, seasonal constraints, and hard-to-connect legs. Its regional research prompts span Africa, Europe, the Americas, Asia, the Middle East, Oceania, and the polar regions.
 
 Start with the budget and core experience. Compare public transit, shared transfers, public camps, and local groups alongside meaningful upgrades. If the original route exceeds the cap, redesign it and show the trade-offs.
+
+### Planning ahead and quality checks
+
+Use sourced historical climate for distant dates and research hotel/rental candidates before the traveler has selected them. Provide driving precautions without certifying ability. Guide acceptance checks completeness, route feasibility under stated assumptions, nights, calculations, evidence, and artifact consistency. Booking, short-term forecasts and same-day road status are separate predeparture checks; they do not prevent completing a useful guide. Estimates are labeled and private trip records stay private.
+
+See [planning readiness](.agents/skills/travel-guide/references/planning-readiness.md) and the [ordered workflow](.agents/skills/travel-guide/references/planning-workflow.md).
 
 ### Getting started
 
