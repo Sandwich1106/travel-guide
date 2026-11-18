@@ -96,3 +96,7 @@ Clone or download this repository, open its folder in Codex, and try:
 ### 可复现自检案例
 
 运行 `python3 scripts/check_example.py`，查看[虚构三日攻略](evals/outputs/city-break.md)、[HTML浏览文件](evals/outputs/city-break.html)和[检查结果](evals/outputs/self-check.json)。测试城市与服务完全虚构，只验证内部一致性与故障识别，不代表真实可订或全部 Skill 行为已验证。
+
+### 扩展研究来源
+
+[分层来源目录](docs/research/source-catalogue.md)覆盖150个去重页面，并记录访问与研究状态；[采纳说明](docs/research/findings.md)说明方法如何进入Skill。主动检索小红书等中文实测，结合当地经验与官方规则；不把转载计为独立验证，不假称已读受限原帖。

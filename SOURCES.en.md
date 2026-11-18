@@ -27,3 +27,7 @@ Regional sources inform the questions to investigate. Verify trip-specific rules
 ## Budget and trip styles
 
 Primary sources for cycling, self-drive, public camps, authorized passenger rail and cross-border coaches illustrate how to unbundle trips and verify date-specific availability. [Budget workflow and sources](.agents/skills/travel-guide/references/budget-and-value.md#english)
+
+## Expanded discovery: 18 November 2026
+
+See the [150-page source catalogue](docs/research/source-catalogue.md) and [adoption notes](docs/research/findings.md). This is a discovery and initial-screening register, not 150 full-text reviews. Xiaohongshu notes read: zero due to login restrictions. Independent Chinese accounts are actively sought; syndicated content is not independent corroboration.
