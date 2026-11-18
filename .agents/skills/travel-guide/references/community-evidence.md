@@ -30,3 +30,29 @@
 Illustrative only. One traveler forum praises a hotel's station access, while booking-site reviews repeatedly mention traffic in street-facing rooms. A quiet-room review concerns a different room category. Recommend a courtyard-facing room for light sleepers, subject to confirmation by the hotel, and give a quieter alternative if that room is unavailable. If a map platform is inaccessible, skip it and use the hotel's address and station walking directions from a readable source.
 
 虚构示例。论坛常夸一家酒店离车站近，预订平台多位住客提到临街房有车声，另一条「很安静」的评论对应不同房型。对浅眠者，推荐先向酒店确认能否订到内院房，并给订不到时的安静备选。若地图评价打不开，跳过该平台，附酒店地址和可访问来源里的步行路线。
+
+## 扩展来源与交叉验证 / Broader sourcing
+
+主动检索小红书等中文实测，不固定优先携程，也不因平台整体名气判定某篇质量。并用当地语种社区、独立指南和官方/运营方，按所研究事实选择渠道。按实际出游日期、同一地点/分店/房型、价格口径及旅客类型比较；近期评论纠错与失败经历也是证据。
+
+每个会改变选择的争议，记录「问题→独立原始来源→共识→分歧条件→官方规则→推荐影响」。例如同酒店位置便利与夜间噪音可能同时成立；分别解释适合谁，不按票数投票。尽量组合独立来源，数量随决定的重要程度与可访问性调整，不要求每个小问题机械凑数。
+
+识别来源依赖：同一作者跨平台、同稿转载、同一商家宣传、同数据源计算器不算多份独立证实。点赞收藏和评分用于发现，不能代替实测细节、样本量或规则核验。已读正文、仅搜索摘要、首页目录、受限页面分别标记；不得由摘要补写原帖内容。
+
+小红书搜索按目的地＋月份/天数/交通方式/预算，再补“避坑、失败、排队、实测、更新”等词；读取原笔记与可访问评论，记录出游时间和商业关系。无法访问则说明具体限制，使用其他中文作者与当地一手资料继续完成规划；不要用仿站、未经验证的镜像或抓取数据集冒充原帖。
+
+Use Chinese firsthand sources including Xiaohongshu where accessible, plus local-language communities and authoritative operators. Compare original independent accounts of the same product and visit conditions. Cross-posts and syndicated copies are one evidence family. Track full-text vs snippet-only vs inaccessible; do not invent note contents. Source breadth supports decisions, not a fixed quota for each trip.
+
+## 攻略日期门槛
+
+仅采用2022-01-01及以后发表或有实质更新依据的作者攻略、游记和体验报告。检索优先近期同季节实测。分别记录发表日、更新日、实际出游日及查验日；抓取日、页脚年份、标题旅行年份不能替代发表日期。2022年前且无实质新版的内容排除；日期未知退回待核，不进入有效证据计数。官方现行规则、运营条款、气候统计、工具与论文单独分类并查适用性，不伪装为通过筛选的近期攻略。
+
+## 小红书图片攻略与OCR
+
+能访问原笔记和合法可读图片时，逐页读取图片，使用可用视觉识别或OCR提取；不能只看正文标题判定攻略无内容。保留笔记链接、作者、发表/更新与出游日期、图片页码、图中文字及识别疑点。图片日期与正文日期矛盾时并列，不把图片上传时间当出游时间。
+
+重点人工复核金额、币种、计价单位、时刻、日期、否定词、站名及地名；路线箭头、图例和表格行列必须结合原图理解。模糊或被遮挡文字标“无法辨认”，不得补全猜测。正文、图片、置顶评论和后续纠错不一致时说明差异；OCR是转录，不是事实核验或独立来源。
+
+识别后按2022年日期门槛筛选实测；疫情前旅行经历即使近期重新发布，也不作为当前交通、价格、政策与体验依据。2022年前旧文只有明确对应内容已经实质重做且实际出游也满足日期门槛时，才把新版相关部分纳入。历史文化背景可另找适用资料，不拿旧游记替代。
+
+关键交通、入境、门票和开放规则另到当前官方或运营方核验。只保存所需摘要及短摘录，不公开转载整套图片、笔记全文或个人信息。图片需要登录、签名失效或工具不可读时明确状态，使用可访问替代；不绕过访问控制，不声称OCR已完成。本流程在获得实际图片时执行，文档接入本身不等于OCR实测通过。

@@ -41,3 +41,7 @@
 - **同行者约束**：结合需要查连续步行、坡度、楼梯、电梯、厕所、餐食过敏、休息、儿童座椅或行李。无障碍或严重过敏等关键条件缺少经营方确认时视为待确认。
 - **失效演练**：针对会影响旅行的情形选做一两项，例如晚到、闭馆、没抢到票、暴雨、交通中断。替代方案也查开放与返程，并检查是否挤掉已付款的下一项。触发了安全红线的活动移出推荐主线。
 - **出行专项**：按实际需要查自驾证件及道路规则、停车和租车异地费，或偏远段的补给、信号和撤离。紧急联系及旅行提醒按目的地官方来源核验。
+
+## Destination selection checkpoint
+
+Once destinations and transit points are chosen, follow [destination policy and visitor treatment](destination-policy.md). Check original policy versions, effective dates and superseding notices; distinguish official restrictions from reported experiences. For image-based community posts, use the [OCR and evidence protocol](community-evidence.md).

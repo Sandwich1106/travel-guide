@@ -96,3 +96,11 @@ Clone or download this repository, open its folder in Codex, and try:
 ### 可复现自检案例
 
 运行 `python3 scripts/check_example.py`，查看[虚构三日攻略](evals/outputs/city-break.md)、[HTML浏览文件](evals/outputs/city-break.html)和[检查结果](evals/outputs/self-check.json)。测试城市与服务完全虚构，只验证内部一致性与故障识别，不代表真实可订或全部 Skill 行为已验证。
+
+### 扩展研究来源
+
+[分层来源目录](docs/research/source-catalogue.md)保留150个发现URL，并记录访问、日期筛选与研究状态；攻略仅采用2022年及以后有日期依据的版本，日期未知者不计有效攻略；[采纳说明](docs/research/findings.md)说明方法如何进入Skill。主动检索小红书等中文实测，结合当地经验与官方规则；不把转载计为独立验证，不假称已读受限原帖。
+
+### 政策时效与图片攻略
+
+目的地确定后检查最新有效入境/过境、当地规定和游客待遇信息，区分正式限制与个别经历。攻略优先2022年及以后实际出游的内容；能访问小红书原图时逐页视觉识别/OCR，核对日期、价格和否定词，关键事实再查官方。参见[政策核验](.agents/skills/travel-guide/references/destination-policy.md)和[图片证据流程](.agents/skills/travel-guide/references/community-evidence.md)。

@@ -39,3 +39,7 @@ For a full international trip, check each module in the [field guide](internatio
 - Check traveler-specific limits such as walking, slopes, steps, lifts, toilets, allergies, car seats and baggage. Mark critical access or severe-allergy claims pending until supported by the operator.
 - Run relevant disruption scenarios such as missed trains, rain, closures or sold-out tickets. Check that the substitute is open and reachable and preserves the next commitment.
 - Add relevant driving documents, parking, one-way fees, remote-area supplies, coverage and evacuation. Verify destination emergency contacts and travel advisories with official sources.
+
+## Destination selection checkpoint
+
+Once destinations and transit points are chosen, follow [destination policy and visitor treatment](destination-policy.md). Check original policy versions, effective dates and superseding notices; distinguish official restrictions from reported experiences. For image-based community posts, use the [OCR and evidence protocol](community-evidence.md).
