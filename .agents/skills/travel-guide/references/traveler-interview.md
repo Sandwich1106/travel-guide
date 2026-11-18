@@ -35,3 +35,9 @@
 - **Separate allergies from dislikes.** Screen out reported allergens, including hidden ingredients such as mushroom stock or mango sauce. Ask the venue about shared prep surfaces, cookware and frying oil as relevant. Menus, reviews and ingredient removal alone cannot confirm suitability for an allergy. Keep unconfirmed venues pending and choose a better-matched main option. Offer a local-language allergy card and a copyable question. For a dislike such as cilantro, check omission and premixed sauces. Apply religious or other firm dietary rules as stated.
 - **Distinguish fear, exertion and post-surgery limits.** Remove skydiving and comparable height exposure from a traveler's route when their stated limits exclude it. If strenuous activity is prohibited after surgery, exclude high-speed, abrupt-stop or high-impact options for that traveler. Check the specific venue's rider rules and offer shows or level walking routes. For borderline activities or unclear recovery limits, defer to the traveler's clinical guidance and operator rules, and leave eligibility pending.
 - **Audit each person before delivery.** Check primary and fallback activities, dining, transport and stays against the recorded limits. Reconcile bookings, split logistics, pending confirmations and conditional options across the full plan, budget and mobile card. Put critical unresolved checks up front with who can confirm, when, and a fallback.
+
+## 兴趣发现与适用范围 / Interest discovery
+
+先问本次旅客最想获得的体验和明确不想做的事，再根据答案追问。选项保持开放、中性，允许自由回答与跳过；不预选仓库维护者的爱好、装备、出发地、酒店档次或消费方式。专项活动仅在用户选择或路线需要时启用。历史回答只对相应旅客与旅行有效，不能成为其他用户的默认画像。
+
+Ask about the current traveler's desired experiences and exclusions before activating specialist modules. Keep interests unknown until provided; never reuse the repository owner's profile as a default for other travelers.

@@ -1,0 +1,253 @@
+{
+  "synthetic": true,
+  "title": "青岚城三日公共交通与建筑漫游（完全虚构）",
+  "party": 2,
+  "currency": "TEST",
+  "budget_cap": 3000,
+  "contingency": 300,
+  "paid": 0,
+  "preferences": [
+    "建筑",
+    "慢节奏"
+  ],
+  "exclusions": [
+    "夜间长途移动"
+  ],
+  "lodging": {
+    "name": "虚构中央旅舍双人房",
+    "nights": [
+      1,
+      2
+    ],
+    "unit_price": 300,
+    "units": 2,
+    "total": 600
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": "抵达与老城建筑",
+      "overnight": "虚构中央旅舍",
+      "effort": "低至中；步行可随时缩短",
+      "events": [
+        {
+          "id": "D1E1",
+          "name": "抵达中央站",
+          "start": 540,
+          "end": 570,
+          "cost": 0,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D1E2",
+          "name": "车站至旅舍：步行、等车、公交及末段",
+          "start": 570,
+          "end": 630,
+          "cost": 40,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D1E3",
+          "name": "寄存与午餐",
+          "start": 630,
+          "end": 750,
+          "cost": 120,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D1E4",
+          "name": "建筑步行线路",
+          "start": 780,
+          "end": 900,
+          "cost": 0,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D1E5",
+          "name": "入住与休息",
+          "start": 930,
+          "end": 1020,
+          "cost": 0,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D1E6",
+          "name": "旅舍晚餐",
+          "start": 1080,
+          "end": 1140,
+          "cost": 140,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "城市博物馆与河岸",
+      "overnight": "虚构中央旅舍",
+      "effort": "低至中；步行可随时缩短",
+      "events": [
+        {
+          "id": "D2E1",
+          "name": "早餐",
+          "start": 480,
+          "end": 540,
+          "cost": 80,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D2E2",
+          "name": "公交门到门",
+          "start": 540,
+          "end": 585,
+          "cost": 40,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D2E3",
+          "name": "博物馆预约参观",
+          "start": 600,
+          "end": 720,
+          "cost": 160,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D2E4",
+          "name": "午餐与休息",
+          "start": 720,
+          "end": 840,
+          "cost": 120,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D2E5",
+          "name": "河岸步行",
+          "start": 870,
+          "end": 960,
+          "cost": 0,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D2E6",
+          "name": "公交返回",
+          "start": 960,
+          "end": 1005,
+          "cost": 40,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D2E7",
+          "name": "晚餐",
+          "start": 1080,
+          "end": 1140,
+          "cost": 140,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "街区慢游与返程",
+      "overnight": "返回起点",
+      "effort": "低至中；步行可随时缩短",
+      "events": [
+        {
+          "id": "D3E1",
+          "name": "早餐及退房寄存",
+          "start": 480,
+          "end": 600,
+          "cost": 80,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D3E2",
+          "name": "老街公共空间",
+          "start": 630,
+          "end": 750,
+          "cost": 0,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D3E3",
+          "name": "午餐与取行李",
+          "start": 750,
+          "end": 870,
+          "cost": 120,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D3E4",
+          "name": "旅舍至车站门到门",
+          "start": 870,
+          "end": 930,
+          "cost": 40,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D3E5",
+          "name": "车站缓冲与检票",
+          "start": 930,
+          "end": 990,
+          "cost": 0,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        },
+        {
+          "id": "D3E6",
+          "name": "返程列车",
+          "start": 990,
+          "end": 1080,
+          "cost": 400,
+          "source": "S0",
+          "status": "模拟数据，未预订"
+        }
+      ]
+    }
+  ],
+  "booking": {
+    "id": "B1",
+    "event": "D2E3",
+    "slot_start": 600,
+    "slot_end": 720,
+    "arrival_event": "D2E2",
+    "release": "模拟出发前30天09:00，当地时间",
+    "cancel": "模拟出发前24小时，免费；退款不是收入",
+    "depends_on": []
+  },
+  "fallback": {
+    "trigger": "D2 08:30模拟运营方宣布博物馆关闭",
+    "decision_by": 510,
+    "replaces": "D2E3",
+    "name": "同街区免费公共建筑步行",
+    "start": 600,
+    "end": 720,
+    "cost": 0,
+    "source": "S0",
+    "return": "沿原公交返回；午餐及住宿不变",
+    "impact": "少支出160 TEST，无其他订单罚金"
+  },
+  "sources": {
+    "S0": {
+      "type": "synthetic",
+      "checked": "2026-11-18",
+      "applies": "仅此虚构案例",
+      "content": "全部城市、商家、时刻、费用与条款均为测试输入；不对应现实服务。"
+    }
+  }
+}

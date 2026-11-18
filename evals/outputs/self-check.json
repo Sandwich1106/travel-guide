@@ -1,0 +1,23 @@
+{
+  "scope": "closed-world synthetic consistency only",
+  "cost": 2120,
+  "contingency": 300,
+  "funding_total": 2420,
+  "negative_cases_detected": [
+    "overlap",
+    "budget",
+    "missing night",
+    "invalid evidence",
+    "late arrival",
+    "invalid fallback",
+    "false booking"
+  ],
+  "result": "PASS",
+  "not_claimed": [
+    "live operator verification",
+    "real-world safety or eligibility",
+    "independent model evaluation",
+    "editor roundtrip",
+    "PDF/spreadsheet/map output not requested in this case"
+  ]
+}
