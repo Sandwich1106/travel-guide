@@ -38,11 +38,15 @@ Repository maintenance publishes reusable procedures, not the owner's preference
 
 For snow/ice road self-driving, read [winter driving](references/winter-driving.md). Keep static consistency results separate from live road, vehicle and driver eligibility gates.
 
+## Planning completion
+
+Use [planning readiness](references/planning-readiness.md) to distinguish a complete guide from booked or departure-day readiness. Use historical climate and sourced seasonal estimates for distant trips. Proactively research hotel and rental candidates when not selected. Give driving precautions without certifying driver ability. Future weather, unbooked inventory and unknown driving ability do not fail guide-quality checks. Fix actual contradictions, missing logistics and unsupported claims.
+
 ## Output contract
 
 For a full research-stage plan, adapt [the reusable plan template](assets/trip-plan.md). Keep confirmed traveler inputs, planning assumptions, external verification and remaining gaps distinct. A budget allocation without supplier quotes is a planning assumption, not a market estimate.
 
-Use [Chinese deliverables](references/deliverables.md) or [English deliverables](references/deliverables.en.md). Scale detail to the request. Full plans include a decision brief, daily route, transport/lodging decisions, reproducible budget, booking/recheck dependencies and operational fallbacks. Mark unresolved critical dependencies as a research-stage plan.
+Use [Chinese deliverables](references/deliverables.md) or [English deliverables](references/deliverables.en.md). Scale detail to the request. Full plans include a decision brief, daily route, transport/lodging decisions, reproducible budget, booking/recheck dependencies and operational fallbacks. Explain unresolved dependencies with assumptions, alternatives and recheck triggers; do not treat all future variables as unfinished guide quality.
 
 Keep summary, daily cards and files consistent through stable record IDs. Create itinerary files only when requested. When revising an identified artifact, read the user's latest source and preserve unrelated edits. Maps use separately editable nodes, activity-adjacent prices, exterior connector routing, and both clickable draw.io and HTML entries; apply the detailed mind-map standard.
 
